@@ -33,7 +33,7 @@ Tudo acontece no seu computador: o áudio, as transcrições e os resumos das su
 
 1. Baixe **Instalar Faraday.exe** na [página de versões](../../releases/latest).
 2. Abra e siga os passos.
-3. Na primeira vez, digite a **chave de uso** que você recebeu (`FRDY-…`). Depois disso, o Faraday funciona mesmo sem internet.
+3. Na primeira vez, digite a **chave de uso** (`FRDY-…`). Ainda não tem? [Peça aqui](https://faraday.portfolio-carlos.workers.dev/pedir). Depois disso, o Faraday funciona mesmo sem internet.
 
 As atualizações aparecem no próprio programa: um clique e ele se atualiza.
 
@@ -41,7 +41,7 @@ As atualizações aparecem no próprio programa: um clique e ele se atualiza.
 
 ## Chave de uso
 
-O Faraday é distribuído com chave. Para conseguir uma, fale com quem te indicou o programa.
+O Faraday é distribuído com chave. **[Peça a sua aqui](https://faraday.portfolio-carlos.workers.dev/pedir)** — ou pelo link "Não tem chave? Peça uma" na janela de ativação do programa.
 
 ---
 
